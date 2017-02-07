@@ -1,3 +1,6 @@
+1.6.2:
+- make pdbquery compatible with v3 API
+
 1.6.1:
 - add require statements needed in some puppet versions to avoid loaderror
 
